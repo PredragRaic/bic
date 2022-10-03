@@ -1,0 +1,101 @@
+* { margin: 0;
+     padding: 0; 
+     
+}   
+
+.body{
+   
+    text-align: center;
+}
+h1{
+    color: blue;
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+    font-style: oblique;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 15px 15px;
+}
+#header{
+    background-color: aqua;
+    border-radius: 15px;
+    
+}
+#header p {
+    color: rgb(233, 164, 176);
+    background-color: rgba(75, 75, 75, 0.816);
+    border: 4px dotted greenyellow;
+    border-radius: 15px;
+    
+}
+
+h2{
+    color: rgb(73, 17, 125);
+    background-color: rgb(175, 122, 56);
+    font-family: 'Kanit', sans-serif;
+    font-size: 2em;
+    font-style: oblique;
+    padding: 15px;
+    border-radius: 40px;
+    margin: 15px;
+}
+p{
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgba(240, 248, 255, 0.619);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    border-style: solid 2px gray;
+}
+#sec1{
+    background-color: rgb(218, 235, 235);
+}
+#sec2{
+    background-color: #1fa499;
+}
+#sec3{
+    background-color: rgb(248, 64, 199);
+}
+img{
+    max-width: 500px;
+    border-radius: 30px;
+    margin: 15px;
+}
+h4{
+    font-size: 50px;
+    font-family: 'Blaka Hollow', cursive;
+    color: midnightblue;
+    padding: 10px;
+}
+#aside{
+    background-color: rgb(83, 190, 243);
+    border: 3px dashed mediumslateblue;
+
+}
+#aside img{
+    height: 200px;
+    border-radius: 15px;
+    margin: 5px;
+}
+#foot {
+    background-color: rgb(48, 48, 91);
+    color: beige;
+}
+#foot p{  
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: small;
+    background-color: rgb(52, 52, 92);
+    padding: none;
+    margin: none;
+}
+#foot img{
+    width: 70px;
+    border-radius: 0;
+
+}
+h3{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
